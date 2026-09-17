@@ -1,0 +1,75 @@
+{
+ "banks": {
+  "cseb_deo": {
+   "module-01-section-1": [
+    {
+     "bytes": 354933,
+     "file": "module-01-section-1-p1.png",
+     "sha256": "814e062fb70619179815a984064a0621321e0572edba04b06ddce627c35982c7"
+    },
+    {
+     "bytes": 371398,
+     "file": "module-01-section-1-p2.png",
+     "sha256": "81129fc5349aaf66f88e5f39f70adab68b9832b4d0fbe682b7f9babff66d2aa6"
+    }
+   ],
+   "module-01-section-2": [
+    {
+     "bytes": 289217,
+     "file": "module-01-section-2-p1.png",
+     "sha256": "6364853a1c6b4602f8e5fa8b847495f726b7c0301f6037fa563bee5762e75d45"
+    },
+    {
+     "bytes": 345496,
+     "file": "module-01-section-2-p2.png",
+     "sha256": "4ddb657ec53dcc1c23cb5afc3f1821120da04fc7735685b8e37d70b58ea45002"
+    }
+   ],
+   "module-01-section-3": [
+    {
+     "bytes": 316068,
+     "file": "module-01-section-3-p1.png",
+     "sha256": "acba08721de1b57bc57690c4213b695e3c7f011f92a7678c8c4aa138f01ba640"
+    },
+    {
+     "bytes": 360362,
+     "file": "module-01-section-3-p2.png",
+     "sha256": "ae88d1a2d296bcaae9a123bfd398b33976777df909d9ed679c886fe54719ea84"
+    }
+   ],
+   "module-01-section-4": [
+    {
+     "bytes": 298269,
+     "file": "module-01-section-4-p1.png",
+     "sha256": "ac11f6c7afdce6622a0735f9831ecf1c03e91aeb6a79500302b1730376ad4486"
+    },
+    {
+     "bytes": 378020,
+     "file": "module-01-section-4-p2.png",
+     "sha256": "60fb0e63d6368eb5f03b4a8972c722afdb4deca1a5c725ba8c8964b64aea4905"
+    }
+   ],
+   "module-01-section-5": [
+    {
+     "bytes": 349906,
+     "file": "module-01-section-5-p1.png",
+     "sha256": "15cbc027268bfdf7ed2b0a4cc79108088d05792c61f63e8480afbe980d11a5a9"
+    },
+    {
+     "bytes": 385498,
+     "file": "module-01-section-5-p2.png",
+     "sha256": "6403044a8de76049bed925ab815adf63d765ef3fddbb62f06b05a4aaa92a9f5a"
+    }
+   ],
+   "module-01-section-6": [
+    {
+     "bytes": 492899,
+     "file": "module-01-section-6-p1.png",
+     "sha256": "85d1edbe97f7fd38b10a120bb366ca0d707ed066c4012958343e4064a1ed2288"
+    }
+   ]
+  }
+ },
+ "generated": "2026-09-17",
+ "version": 1
+}
