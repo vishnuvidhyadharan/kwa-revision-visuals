@@ -67,9 +67,73 @@
      "file": "module-01-section-6-p1.png",
      "sha256": "85d1edbe97f7fd38b10a120bb366ca0d707ed066c4012958343e4064a1ed2288"
     }
+   ],
+   "module-02-section-1": [
+    {
+     "bytes": 484703,
+     "file": "module-02-section-1-p1.png",
+     "sha256": "74dd957aa4e5346974b495db201c16d8be1b1593bbd5adb7a3b4564b25c29896"
+    }
+   ],
+   "module-03-section-1": [
+    {
+     "bytes": 443664,
+     "file": "module-03-section-1-p1.png",
+     "sha256": "cd47e0003acd2158af2c73c69d98676fa258435d231c437c307dd69d5a18262e"
+    }
+   ],
+   "module-03-section-2": [
+    {
+     "bytes": 338265,
+     "file": "module-03-section-2-p1.png",
+     "sha256": "72111c2d043c0fb5330b75c4bdadeeb87b54fa924a7d5bdd48130fab627fbb0e"
+    },
+    {
+     "bytes": 409698,
+     "file": "module-03-section-2-p2.png",
+     "sha256": "afc2f739fff288d21e30a216c6b42a87ca452cc775e78417eeb936727314f6c9"
+    }
+   ],
+   "module-04-section-1": [
+    {
+     "bytes": 282845,
+     "file": "module-04-section-1-p1.png",
+     "sha256": "da186e2fb79f49cdb66eb92725d92e1bacb7a22f28972e869619789677f79e6b"
+    },
+    {
+     "bytes": 412117,
+     "file": "module-04-section-1-p2.png",
+     "sha256": "e34df20ec4a3ac2deffb71f2ff18876c0f4583cdb19791a2c04185d5a613e0fc"
+    }
+   ],
+   "module-05-section-1": [
+    {
+     "bytes": 379042,
+     "file": "module-05-section-1-p1.png",
+     "sha256": "107ca48870cd52f35b844fda11ca8f477f5e5070a2b6fd674f977478aa314fd7"
+    }
+   ],
+   "module-05-section-2": [
+    {
+     "bytes": 339161,
+     "file": "module-05-section-2-p1.png",
+     "sha256": "a6107aa817177c588ccafc730b969d2f2a1f52f584b8a19edcd795b4a036950b"
+    }
+   ],
+   "module-06-section-1": [
+    {
+     "bytes": 258997,
+     "file": "module-06-section-1-p1.png",
+     "sha256": "deb1974b890729fd3a77cf798515e91e47cc10d30653e93f66981146b8be1d25"
+    },
+    {
+     "bytes": 282317,
+     "file": "module-06-section-1-p2.png",
+     "sha256": "73d37bb830e83d85cd1c4d52f2b69f4493bf72f92c67c2aa92204daa28ff970d"
+    }
    ]
   }
  },
- "generated": "2026-09-17",
+ "generated": "2026-09-18",
  "version": 1
 }
